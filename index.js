@@ -1,3 +1,6 @@
+let IronMan = 10
 
+if(IronMan  >=1000)
 
-console.log("Oi")
+    console.log("Você é ferro")
+
